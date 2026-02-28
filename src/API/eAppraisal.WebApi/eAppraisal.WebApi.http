@@ -1,0 +1,6 @@
+@eAppraisal.WebApi_HostAddress = http://localhost:5236
+
+GET {{eAppraisal.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

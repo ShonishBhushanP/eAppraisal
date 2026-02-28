@@ -1,0 +1,12 @@
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Application.deps.json
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Application.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Application.pdb
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.AssemblyInfoInputs.cache
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.AssemblyInfo.cs
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.csproj.CoreCompileInputs.cache
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.sourcelink.json
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/refint/eAppraisal.Application.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.pdb
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/ref/eAppraisal.Application.dll
