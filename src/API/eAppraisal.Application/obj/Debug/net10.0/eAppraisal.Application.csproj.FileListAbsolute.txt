@@ -10,3 +10,9 @@
 /workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/refint/eAppraisal.Application.dll
 /workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.pdb
 /workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/ref/eAppraisal.Application.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Domain.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Infrastructure.dll
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Infrastructure.pdb
+/workspaces/eAppraisal/src/API/eAppraisal.Application/bin/Debug/net10.0/eAppraisal.Domain.pdb
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eAppraisal.Application.csproj.AssemblyReference.cache
+/workspaces/eAppraisal/src/API/eAppraisal.Application/obj/Debug/net10.0/eApprais.AFBB0DA4.Up2Date

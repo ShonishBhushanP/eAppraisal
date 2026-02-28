@@ -8,6 +8,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.3" />
   </ItemGroup>
-
+ <ItemGroup>
+    <ProjectReference Include="..\eAppraisal.Application\eAppraisal.Application.csproj"/>
+    <ProjectReference Include="..\eAppraisal.Infrastructure\eAppraisal.Infrastructure.csproj"/>
+  </ItemGroup>
 </Project>

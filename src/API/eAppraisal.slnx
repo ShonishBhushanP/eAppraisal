@@ -2,4 +2,5 @@
   <Project Path="eAppraisal.Application/eAppraisal.Application.csproj" />
    <Project Path="eAppraisal.Domain/eAppraisal.Domain.csproj" />
    <Project Path="eAppraisal.WebApi/eAppraisal.WebApi.csproj" />
+   <Project Path="eAppraisal.Infrastructure/eAppraisal.Infrastructure.csproj" />
 </Solution>
