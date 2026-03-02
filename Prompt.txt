@@ -4,11 +4,9 @@ Prompt 1: Consider your role as a solution architect. You need to generate follo
 
 [[Requirement Text here]]
 
-prompt 2: I need the diagrams not in UML format, just a good coloured diagram representation for all the diagrams i have asked as images
+prompt 2: Explain this deployment architecture in md file and i need that in a downloadable file
 
-prompt 3: Explain this deployment architecture in md file and i need that in a downloadable file
+prompt 3: explain the architecture diagram in md format and as a downloadable file
 
-prompt 4: explain the architecture diagram in md format and as a downloadable file
-
-prompt 5: What would be the recommendation on back up service for this application?
+prompt 4: What would be the recommendation on back up service for this application?
 
