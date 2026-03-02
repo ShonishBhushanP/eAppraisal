@@ -1,1 +1,14 @@
-https://chatgpt.com/share/69a159d0-b1f8-8005-bdb7-af98e0c5232d
+URL: https://chatgpt.com/share/69a159d0-b1f8-8005-bdb7-af98e0c5232d
+
+Prompt 1: Consider your role as a solution architect. You need to generate following things based on the following requirement, You can design this as an intranet application.
+
+[[Requirement Text here]]
+
+prompt 2: I need the diagrams not in UML format, just a good coloured diagram representation for all the diagrams i have asked as images
+
+prompt 3: Explain this deployment architecture in md file and i need that in a downloadable file
+
+prompt 4: explain the architecture diagram in md format and as a downloadable file
+
+prompt 5: What would be the recommendation on back up service for this application?
+
