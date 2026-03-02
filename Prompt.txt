@@ -1,4 +1,7 @@
-Prompt 1: Consider your role as a solution architect. You need to generate following things based on the following requirement, You can design this as an intranet application. 1) Architecture diagram(Best suitable one for the requirement) 2) Usecase diagram 3) ER diagram
+Prompt 1: Consider your role as a solution architect. You need to generate following things based on the following requirement, You can design this as an intranet application. 
+1) Architecture diagram(Best suitable one for the requirement) 
+2) Usecase diagram 
+3) ER diagram
 
 [[Requirement text goes here]]
 
