@@ -5,7 +5,7 @@ Prompt 1: Consider your role as a solution architect. You need to generate follo
 
 [[Requirement text goes here]]
 
-prompt 2: Explain this architecture diagram in md file and i need that in a downloadable file
+prompt 2: Explain this usecase diagram in md file and i need that in a downloadable file
 
 prompt 3: explain the architecture diagram in md format and as a downloadable file
 
