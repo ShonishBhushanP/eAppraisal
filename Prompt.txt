@@ -1,5 +1,3 @@
-URL: https://chatgpt.com/share/69a159d0-b1f8-8005-bdb7-af98e0c5232d
-
 Prompt 1: Consider your role as a solution architect. You need to generate following things based on the following requirement, You can design this as an intranet application.
 
 [[Requirement text goes here]]
